@@ -1,0 +1,6 @@
+[
+    {"src":"images/banner/banner_5.jpg","desc":""},
+    {"src":"images/banner/banner_6.jpg","desc":""},
+    {"src":"images/banner/banner_3.jpg","desc":""},
+    {"src":"images/banner/banner_4.jpg","desc":""}
+]
